@@ -1,8 +1,6 @@
-## Jeff's Personal Site
+## Modern Web Project Starter Code
 
-I haven't had the chance to create a project from scratch using a bunch of cool technologies at once in a while, so here I go.
-
-I will be using the following:
+Starter code for a modern web app. Uses the following technology, with a fully supported build and development setup:
 
 ```
 npm
@@ -31,5 +29,5 @@ bower install
 This installs all of the project dependencies. Now, you can host the project locally, and check out the site on localhost:3000 from your browser.
 
 ```
-gulp serve
+gulp serve:dev
 ```
